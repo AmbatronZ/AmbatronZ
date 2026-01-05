@@ -191,7 +191,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 📧 Reach out: **aldinomaytatap@gmail.com**
 
-🌐 Web Biodata Pribadi: **[Biodata Website](https://141000329513.it.student.pens.ac.id/)**
+🌐 My Biography : **[Biography Website](https://141000329513.it.student.pens.ac.id/)**
 
 🎓 Currently studying at **Politeknik Elektronika Negeri Surabaya**
 
