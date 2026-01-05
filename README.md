@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Game+Developer+%F0%9F%8E%AE;Web+Developer+%F0%9F%8C%90;Mobile+Apps+Developer+%F0%9F%93%B1;Always+Learning+New+Things+%F0%9F%92%A1)
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+  [![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](your-portfolio-url)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 
@@ -163,7 +163,7 @@ const aldino = {
 
 ## 💼 What I'm Working On
 
-- 🎮 Developing immersive gaming experiences with Unity and Unreal Engine
+- 🎮 Developing immersive gaming experiences with Unity, Godot, RPG Maker XP, Scratch And Unreal Engine
 - 📱 Building cross-platform mobile applications with Flutter
 - 🌐 Creating responsive and dynamic web applications
 - 🚀 Exploring new technologies and expanding my skillset
@@ -189,9 +189,9 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 💬 Ask me about **Game Development, Web Development, Mobile Development, or Tech in general**
 
-📧 Reach out: **your.email@example.com**
+📧 Reach out: **aldinomaytatap@gmail.com**
 
-🌐 Portfolio: **[yourportfolio.com](https://yourportfolio.com)**
+🌐 Web Biodata Pribadi: **[Biodata Website](https://141000329513.it.student.pens.ac.id/)**
 
 🎓 Currently studying at **Politeknik Elektronika Negeri Surabaya**
 
