@@ -3,14 +3,18 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     - cron: "0 18 * * *" # Berjalan otomatis setiap hari
-  workflow_dispatch: # Memungkinkan kamu menjalankan script secara manual
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    # Menambahkan izin akses Write agar bot bisa melakukan push gambar
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Diperbarui ke v4 untuk menghilangkan warning Node.js
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,5 +24,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Auto-generate 3D contribution graph"
+          # Mencegah error jika sewaktu-waktu grafiknya tidak ada perubahan
+          git commit -m "Auto-generate 3D contribution graph" || echo "No changes to commit"
           git push
