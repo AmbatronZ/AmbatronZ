@@ -2,9 +2,7 @@
   <tr>
     <td width="40%">
 <pre>
-[PASTE ASCII ART KAMU DI SINI]
-(Pastikan tidak ada spasi berlebih 
-di awal baris saat melakukan paste)
+<img width="1886" height="2508" alt="Image" src="https://github.com/user-attachments/assets/5eb8c060-e158-4c8b-9943-6783a1a05194" />
 </pre>
     </td>
     <td width="60%">
