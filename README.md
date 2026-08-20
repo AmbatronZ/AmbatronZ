@@ -142,11 +142,10 @@ const aldino = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmbatronZ&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FF6B6B)
-
-</div>
+<p align="center">
+  <!-- Ini adalah kode untuk memunculkan grafik 3D yang baru saja kamu buat -->
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
+</p>
 
 ---
 
