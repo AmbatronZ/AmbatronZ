@@ -1,3 +1,33 @@
+<table style="border: none;">
+  <tr>
+    <td width="40%">
+<pre>
+[PASTE ASCII ART KAMU DI SINI]
+(Pastikan tidak ada spasi berlebih 
+di awal baris saat melakukan paste)
+</pre>
+    </td>
+    <td width="60%">
+<pre>
+aldino@ambatronz
+-----------------
+OS: ........... Windows 11, Android 14, Debian GNU/Linux (Terminal-only)
+Role: ......... Game, Web, & Mobile Developer
+Campus: ....... Politeknik Elektronika Negeri Surabaya
+Languages: .... Java, Python, C#, Dart, TypeScript, GDScript
+Hobbies: ...... Drawing,Gaming,Reading Philosophy
+Contact: ...... aldinomaytatap@gmail.com
+Location: ..... Surabaya, Indonesia
+
+GitHub Stats
+-----------------
+Commits: ...... (Gunakan stat dinamis atau tulis manual)
+Focus: ........ Building immersive games and scalable apps
+</pre>
+    </td>
+  </tr>
+</table>
+
 # 👋 Hi there, I'm Aldino Maytata Prandila
 
 <div align="center">
