@@ -14,7 +14,7 @@ OS: ........... Windows 11, Android 14, Debian GNU/Linux (Terminal-only)
 Role: ......... Game, Web, & Mobile Developer
 Campus: ....... Politeknik Elektronika Negeri Surabaya
 Languages: .... Java, Python, C#, Dart, TypeScript, GDScript
-Hobbies: ...... Drawing,Gaming,Reading Philosophy
+Hobbies: ...... Drawing, Gaming, Reading Philosophy
 Contact: ...... aldinomaytatap@gmail.com
 Location: ..... Surabaya, Indonesia
 
