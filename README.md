@@ -42,46 +42,6 @@ Focus: ........ Building immersive games and scalable apps
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const aldino = {
-    fullName: "Aldino Maytata Prandila",
-    username: "AmbatronZ",
-    location: "Surabaya, Indonesia 🇮🇩",
-    education: {
-        institution: "Politeknik Elektronika Negeri Surabaya",
-        degree: "Informatics Engineering",
-        gpa: 3.76
-    },
-    role: ["Game Developer", "Web Developer", "Mobile Apps Developer"],
-    code: ["JavaScript", "TypeScript", "Python", "C#", "Dart", "Java", "Kotlin"],
-    askMeAbout: ["game dev", "web dev", "mobile dev", "tech", "design"],
-    technologies: {
-        gameEngine: ["Unity", "Unreal Engine", "Godot"],
-        mobile: {
-            crossPlatform: ["Flutter", "React Native"],
-            native: ["Android Studio", "Kotlin", "Java"]
-        },
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-        devOps: ["Docker", "CI/CD", "AWS", "Nginx"],
-        misc: ["Socket.IO", "GraphQL", "REST API"]
-    },
-    currentFocus: "Building immersive games and scalable applications",
-    funFact: "I turn coffee into code and bugs into features ☕️"
-};
-```
-
----
-
 ## 🎓 Education
 
 <div align="center">
