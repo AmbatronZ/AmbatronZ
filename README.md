@@ -20,7 +20,7 @@ Location: ..... Surabaya, Indonesia
 
 GitHub Stats
 -----------------
-Commits: ...... (Gunakan stat dinamis atau tulis manual)
+Commits: ...... apaya
 Focus: ........ Building immersive games and scalable apps
 </pre>
     </td>
