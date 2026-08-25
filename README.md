@@ -132,7 +132,6 @@ Focus: ........ Building immersive games and scalable apps
 ## 📈 Contribution Graph
 
 <p align="center">
-  <!-- Ini adalah kode untuk memunculkan grafik 3D yang baru saja kamu buat -->
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </p>
 
@@ -142,8 +141,8 @@ Focus: ........ Building immersive games and scalable apps
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)](https://github.com/AmbatronZ/Renovasim-Flutter)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)]()
+[![Renovasim Flutter](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=Renovasim-Flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)](https://github.com/AmbatronZ/Renovasim-Flutter)
+[![Trapezibuddy](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=Trapezibuddy&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)](https://github.com/AmbatronZ/Trapezibuddy)
 
 </div>
 
