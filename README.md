@@ -140,10 +140,25 @@ Focus: ........ Building immersive games and scalable apps
 ## 🎯 Featured Projects
 
 <div align="center">
-
-[![Renovasim Flutter](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=Renovasim-Flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)](https://github.com/AmbatronZ/Renovasim-Flutter)
-[![Trapezibuddy](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=Trapezibuddy&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)](https://github.com/AmbatronZ/Trapezibuddy)
-
+  <table style="border: none; background-color: transparent;">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/AmbatronZ/Renovasim-Flutter">
+          <!-- Menggunakan Socialify untuk banner dinamis bergaya tech -->
+          <img src="https://socialify.git.ci/AmbatronZ/Renovasim-Flutter/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Renovasim Flutter" width="100%" style="border-radius: 10px;"/>
+        </a>
+        <br>
+        <b>📱 Renovasim Flutter</b>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/AmbatronZ/Trapezibuddy">
+          <img src="https://socialify.git.ci/AmbatronZ/Trapezibuddy/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Trapezibuddy" width="100%" style="border-radius: 10px;"/>
+        </a>
+        <br>
+        <b>💻 Trapezibuddy</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
