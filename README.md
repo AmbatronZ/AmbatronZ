@@ -213,7 +213,7 @@ I'm always open to interesting conversations and collaboration opportunities!
   
   ### Show some ❤️ by starring some of my repositories!
   
-  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  *"Perburuan gelar karena panggilan untuk memahami cosmos atau hanya untuk tuntutan status sosial? ."*  By Myself
 
 </div>
 
