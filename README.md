@@ -142,8 +142,8 @@ Focus: ........ Building immersive games and scalable apps
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)](https://github.com/AmbatronZ/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)](https://github.com/AmbatronZ/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)](https://github.com/AmbatronZ/Renovasim-Flutter)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=AmbatronZ&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7)]()
 
 </div>
 
