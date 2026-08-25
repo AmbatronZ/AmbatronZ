@@ -201,7 +201,12 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <div align="center">
+
+---
   
   ![Profile Views](https://komarev.com/ghpvc/?username=AmbatronZ&color=blueviolet&style=for-the-badge)
   
@@ -210,3 +215,4 @@ I'm always open to interesting conversations and collaboration opportunities!
   *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
+
