@@ -205,7 +205,6 @@ I'm always open to interesting conversations and collaboration opportunities!
   
   ![Profile Views](https://komarev.com/ghpvc/?username=AmbatronZ&color=blueviolet&style=for-the-badge)
   
-  ### Show some ❤️ by starring some of my repositories!
   
   *"Perburuan gelar karena panggilan untuk memahami cosmos atau hanya memenuhi tuntutan status sosial? ."*  By Myself
 
